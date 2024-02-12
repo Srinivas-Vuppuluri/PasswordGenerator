@@ -1,4 +1,5 @@
 import random
+
 def generatePassword(pwlength):
 
     alphabet = "abcdefghijklmnopqrstuvwxyz"
