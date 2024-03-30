@@ -14,7 +14,7 @@ Clone the repository:
    ```bash
    github link : https://github.com/Srinivas-Vuppuluri/PasswordGenerator
 
-## Example:
+## Example
 How many passwords do you want to generate? 3
 Generating 3 passwords
 Minimum length of password should be 3
